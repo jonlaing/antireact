@@ -94,7 +94,7 @@ const TestStateful = (() => {
 I guess you kinda want your app to show up on the screen. To do that is pretty straight forward:
 
 ```javascript
-AntiReact.createApp(dom(TestStateful), document.getElementById('root));
+AntiReact.createApp(dom(TestStateful), document.getElementById('root'));
 ```
 
 You might notice that I wrapped `TestStateful` in `dom`. This is because of a bug in the renderer
