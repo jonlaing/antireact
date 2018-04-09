@@ -6,9 +6,11 @@ The React Clone no one needed or wanted
 
 ### Why?
 
-I wanted this YouTube video about JS fatigue, and it made me wonder how hard it
-would be to reinvent React using vanilla JS. Well, with a little help from a
-wonderful blog post about making a Virtual DOM, and a little bit of my own
+I wanted [this YouTube video](https://www.youtube.com/watch?v=k7n2xnOiWI8) about
+JS fatigue, and it made me wonder how hard it would be to reinvent React using vanilla
+JS. Well, with a little help from a wonderful
+[blog post](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
+about making a Virtual DOM, and a little bit of my own
 ideas on how to do a component system with state management, it turns out it's
 something one can do in a few hours on a Sunday night.
 
