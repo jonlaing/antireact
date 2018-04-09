@@ -41,6 +41,7 @@ const AntiReact = (function () {
         _props($el[k], v);
       } else if(typeof v === "boolean") {
         $el.setAttribute(k, v);
+        $el[k] = v;
       } else {
         $el[k] = v;
       }
